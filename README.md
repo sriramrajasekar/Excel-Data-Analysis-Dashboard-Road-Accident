@@ -70,11 +70,7 @@ Most Common Accident Type -- 	Type of accident (e.g., head-on, side-impact) that
 ---
 
 ## 📊 Dashboard Snapshot
-
-
-
-
-
+<img width="1390" alt="Screenshot 2025-05-30 at 11 19 34 PM" src="https://github.com/user-attachments/assets/6b95df81-359c-4ffb-9f5b-7feeaa7c6232" />
 
 ---
 
