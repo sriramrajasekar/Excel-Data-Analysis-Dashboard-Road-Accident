@@ -1,93 +1,85 @@
-# 🚧 Road Accident Data Analysis - Excel Project
-
-## 📊 Project Overview
-
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
 
-## 📁 Dataset
+## 🚧 Road Accident Data Analysis — Excel Project
 
-**File**: `Road Accident Data.xlsx`  
-The dataset contains detailed records of road accidents, including:
-- **Accident Types**
-- **States/Regions**
-- **Total Accidents**
-- **Fatalities**
-- **Injuries**
+### 📊 Project Overview
+
+Developed a comprehensive data analysis project in Microsoft Excel to explore and visualize road accident patterns across various states/regions. The project encompassed:
+
+* **Data Cleaning & Preprocessing**
+* **KPI Design & Calculation**
+* **Dashboard Creation with Visual Insights**
+* **Interactive Filtering for Deeper Exploration**
 
 ---
 
-## 🔧 Tools & Techniques Used
+### 📁 Dataset
 
-- **Microsoft Excel**
-  - Pivot Tables
-  - VLOOKUP/XLOOKUP
-  - Conditional Formatting
-  - Data Cleaning
-  - Charts (Bar, Pie, Line)
-  - Data Validation
-  - Filters & Sorting
-  - Dashboard Creation
+**File:** `Road Accident Data.xlsx`
+**Fields Included:**
 
----
-
-#🚦 Key Performance Indicators (KPIs)
-
-#KPI Name	Description
-
-Total Accidents	-- Total number of road accidents recorded in the dataset.
-
-Total Fatal -- Accidents	Number of accidents that resulted in fatalities.
-
-Total Injuries-- 	Total number of individuals injured in accidents.
-
-Fatality Rate (%)	-- (Total Fatal Accidents / Total Accidents) * 100 — % of fatal outcomes.
-
-Injury Rate (%)	-- (Total Injuries / Total Accidents) * 100 — % of accidents with injuries.
-
-Highest Accident State/Region	-- The state or region with the maximum number of road accidents.
-
-Lowest Accident State/Region	-- The state or region with the minimum number of road accidents.
-
-Accidents per 100,000 Population	-- If population data is included, use it to normalize accident data.
-
-Accident Severity Index -- 	A custom index = (Fatalities + Serious Injuries) / Total Accidents.
-
-Year/Month with Most Accidents -- 	Temporal trend to identify when most accidents occur.
-
-Most Common Accident Type -- 	Type of accident (e.g., head-on, side-impact) that occurs most frequently.
-
-% Change YoY--	Year-over-year change in accident numbers or fatalities.
-
-## 📈 Key Insights
-
-- Identified the top states with the highest accident rates.
-- Highlighted months/years with peak accidents and fatalities.
-- Categorized accidents by severity and type.
-- Created interactive visualizations for easier understanding.
-- Used conditional formatting to flag high-risk areas.
+* Accident Type
+* State/Region
+* Total Accidents
+* Fatalities
+* Injuries
+* (Optional: Population Data for normalization)
 
 ---
 
-## 📊 Dashboard Snapshot
-<img width="1390" alt="Screenshot 2025-05-30 at 11 19 34 PM" src="https://github.com/user-attachments/assets/6b95df81-359c-4ffb-9f5b-7feeaa7c6232" />
+### 🔧 Tools & Techniques Used
+
+* **Microsoft Excel**
+* **Pivot Tables & Pivot Charts**
+* **VLOOKUP / XLOOKUP**
+* **Conditional Formatting**
+* **Charts:** Bar, Line, Pie
+* **Data Validation & Filters**
+* **Interactive Dashboards**
 
 ---
 
-## ✅ Outcomes
+### 🚦 Key Performance Indicators (KPIs)
 
-- Gained hands-on experience in exploratory data analysis using Excel.
-- Enhanced skills in Excel formulas, data visualization, and dashboarding.
-- Extracted actionable insights from raw data for decision-making.
+| KPI Name                         | Description                                                 |
+| -------------------------------- | ----------------------------------------------------------- |
+| **Total Accidents**              | Sum of all reported accidents.                              |
+| **Total Fatal Accidents**        | Number of accidents with fatalities.                        |
+| **Total Injuries**               | Total injured individuals.                                  |
+| **Fatality Rate (%)**            | `(Fatal Accidents / Total Accidents) * 100`                 |
+| **Injury Rate (%)**              | `(Total Injuries / Total Accidents) * 100`                  |
+| **Highest Accident State**       | State with the maximum accidents.                           |
+| **Lowest Accident State**        | State with the fewest accidents.                            |
+| **Accidents per 100,000 People** | Normalized accident rate (if population data is available). |
+| **Accident Severity Index**      | `(Fatalities + Serious Injuries) / Total Accidents`         |
+| **Peak Accident Period**         | Year/Month with the most accidents.                         |
+| **Most Common Accident Type**    | Accident category with the highest frequency.               |
+| **% Change YoY**                 | Year-over-year change in accident metrics.                  |
 
 ---
 
-## 🧑‍💻 Author
+### 📈 Key Insights
 
-**Sriram**   
-📧 sriramrshree@gmail.com  
-💼  www.linkedin.com/in/sriramrajasekaran
+* Identified **top states** with the highest accident rates.
+* Highlighted **peak months/years** for accidents and fatalities.
+* Segmented accident data by **type and severity**.
+* Built **interactive dashboards** for user-driven exploration.
+* Used **conditional formatting** to flag high-risk areas.
 
 ---
 
+### 🧩 Dashboard Snapshot
+
+<img width="1390" alt="Screenshot 2025-05-30 at 11 19 34 PM" src="https://github.com/user-attachments/assets/580cf1c8-74c3-4bf5-af12-054eb5e541a3" />
+
+
+---
+
+### ✅ Outcomes
+
+* Strengthened skills in **Excel-based EDA and dashboard design**.
+* Transformed raw data into **actionable insights**.
+* Practiced using Excel tools for **real-world analytical scenarios**.
+
+---
 
